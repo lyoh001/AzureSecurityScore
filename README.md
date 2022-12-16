@@ -23,8 +23,11 @@
 - The end users can consume the BI report.
 
 ## 3 Power BI report Link
-Ref: [Power BI Report Link](images/powerbi.pdf)
+Ref: [Power BI Report Link](images/securityscore.pdf)
 
-## 4 MS Docs Link
+## 4 ETL Notebook
+Ref: [ETL Notebook Link](notebook/notebook.ipynb)
+
+## 5 MS Docs Link
 Ref: [MS Docs: Azure REST API](https://learn.microsoft.com/en-us/rest/api/managementgroups/)
 
