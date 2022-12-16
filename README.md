@@ -22,6 +22,9 @@
 
 - The end users can consume the BI report.
 
-## 3 MS Docs Link
+## 3 Power BI report Link
+Ref: [Power BI Report Link](./images/powerbi.pdf)
+
+## 4 MS Docs Link
 Ref: [MS Docs: Azure REST API](https://learn.microsoft.com/en-us/rest/api/managementgroups/)
 
