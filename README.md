@@ -23,7 +23,7 @@
 - The end users can consume the BI report.
 
 ## 3 Power BI report Link
-Ref: [Power BI Report Link](images/securityscore.pdf)
+Ref: [Power BI Report Link](images/powerbi.png)
 
 ## 4 ETL Notebook
 Ref: [ETL Notebook Link](notebook/notebook.ipynb)
