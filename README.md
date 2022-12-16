@@ -1,8 +1,12 @@
 #  Azure Security Score
 ## 1. Introduction
 ### 1.1	Overview
+Performed a full analysis for Azure Security Center using Pandas and Power BI in order to determine what to prioritize rectifying vulnerability in cloud for business continuity.
 
-
+This document is intended to provide a high level overview of workflow on the following.
+- Extracting a table from Azure Security Center.
+- Extracting a table from Azure REST API.
+- Cleansing and Merging 2 tables to feed to Power BI to build a visual report.
 
 ## 2 Logical Architecture
 ### 2.1	Logical System Component Overview
