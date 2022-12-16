@@ -15,9 +15,10 @@
 ![Firegure 2.3: Jupyterlab](images/sagemaker.png)
 
 - Notebook gets pushed to github repo.
+![Firegure 2.4: Github](images/github.png)
 
 - Power BI report gets built with the ingested data.
-![Figure 2.4: Power BI Dashboard](./images/powerbi.png)
+![Figure 2.5: Power BI Dashboard](./images/powerbi.png)
 
 - The end users can consume the BI report.
 
