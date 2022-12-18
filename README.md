@@ -26,8 +26,8 @@ This document is intended to provide a high level overview of workflow on the fo
 
 - The end users can consume the BI report.
 
-## 3 Power BI report Link
-Ref: [Power BI Report Link](images/powerbi.png)
+## 3 Power BI Report Link
+Ref: [Interactive Power BI Dashboard Link](https://lyoh001.com/mlcloudaudit)
 
 ## 4 ETL Notebook
 Ref: [ETL Notebook Link](notebook/notebook.ipynb)
