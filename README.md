@@ -22,7 +22,7 @@ This document is intended to provide a high level overview of workflow on the fo
 ![Firegure 2.4: Github](images/github.png)
 
 - Power BI report gets built with the ingested data.
-![Figure 2.5: Power BI Dashboard](images/powerbi.png)
+![Figure 2.5: Power BI Dashboard](images/powerbi_.png)
 
 - The end users can consume the BI report.
 
